@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 2999,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+    "description": "Premium wireless headphones."
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 4999,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+    "description": "Fitness tracking smartwatch."
+  },
+  {
+    "id": 3,
+    "name": "Casual T-Shirt",
+    "price": 799,
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+    "description": "Comfortable cotton t-shirt."
+  },
+  {
+    "id": 4,
+    "name": "Denim Jacket",
+    "price": 1999,
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+    "description": "Stylish denim jacket."
+  },
+  {
+    "id": 5,
+    "name": "Sneakers",
+    "price": 2499,
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+    "description": "Comfortable everyday sneakers."
+  },
+  {
+    "id": 6,
+    "name": "Running Shoes",
+    "price": 3299,
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772",
+    "description": "Lightweight running shoes."
+  },
+  {
+    "id": 7,
+    "name": "Leather Wallet",
+    "price": 899,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93",
+    "description": "Genuine leather wallet."
+  },
+  {
+    "id": 8,
+    "name": "Sunglasses",
+    "price": 1299,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083",
+    "description": "UV protected sunglasses."
+  }
+]
